@@ -1,27 +1,27 @@
 {
-  "name": "raganork",
+  "name": "Sumu mwole",
   "version": "2.0.0",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "Sumu mwole whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/Masterjp2/SUMU-MWOLE" 
   },
   "keywords": [
     "whatsapp",
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Master jp",
+  "developer": "@master jp",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/raganork/issues"
+    "url": "https://github.com/Masterjp2/SUMU-MWOLE/issues"
   },
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/Masterjp2/SUMU-MWOLE/raganork#readme",
   "dependencies": {
     "@adiwajshing/baileys": "4.1.0",
     "@adiwajshing/keyed-db":"0.2.4",
